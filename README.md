@@ -1,0 +1,1 @@
+The Pizza Sales Dashboard is an interactive data visualization project that provides insights into pizza sales performance. It helps businesses analyze sales trends, identify best-selling items, monitor revenue, and make data-driven decisions.
